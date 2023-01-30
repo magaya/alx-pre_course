@@ -1,1 +1,1 @@
-My first readme
+This is the git file in the root folder
